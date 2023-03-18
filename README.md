@@ -24,7 +24,7 @@
 
 <code><a href="https://www.linkedin.com/in/avantika-som-570819200/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="avantika_som" height="30" width="30" /></a></code>
 <!--<code><a href="https://instagram.com/thakuratul_28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="thakuratul28" height="30" width="30" /></a></code>-->
-<code><a href="https://leetcode.com/__Avantika_/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="avantika" height="30" width="30" /></a></code>
+<code><a href="https://www.hackerrank.com/avantikasom977" target="blank"><img align="center" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_dc8855248a4baee3ab92e3b9bf5273af/hackerrank-for-developers.png" alt="avantika" height="30" width="30" /></a></code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

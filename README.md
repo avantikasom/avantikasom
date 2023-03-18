@@ -36,11 +36,11 @@
             <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://www.pngfind.com/pngs/m/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png"></a>
             </td>
-            <td width="80px" align="center">
+            <!--td width="80px" align="center">
             <span><strong>Bootstrap</strong></span><br>
              <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></a>
-            </td>
+            </td>-->
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
               <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -50,24 +50,24 @@
             <span><strong>CSS</strong></span><br>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-            </td>
+            <!--</td>
             <td width="80px" align="center">
             <span><strong>PHP</strong></span><br>
             <a href="https://www.php.net" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></a>
-            </td>
+            </td>-->
         </tr>
         <tr valign="top">
-            <td width="80px" align="center">
+           <!-- <td width="80px" align="center">
             <span><strong>React</strong></span><br>
               <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
-            </td>
-            <td width="80px" align="center">
+            </td>-->
+           <!-- <td width="80px" align="center">
             <span><strong>git</strong></span><br>
               <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></a>
-            </td>
+            </td>-->
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
               <a href="https://github.com/avantikasom" target="_blank" rel="noreferrer">
@@ -77,11 +77,11 @@
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></a>
             </td>
-            <td width="80px" align="center">
+            <!--<td width="80px" align="center">
             <span><strong>MySQL</strong></span><br>
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png"></a>
-            </td>
+            </td>-->
         </tr>
     </tbody>
 </table>

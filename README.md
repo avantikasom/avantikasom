@@ -21,7 +21,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--<code><a href="https://twitter.com/thakuratul_28"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="thakuratul2" width="30" /></a></code-->
+
 <code><a href="https://www.linkedin.com/in/avantika-som-570819200/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="avantika_som" height="30" width="30" /></a></code>
 <!--<code><a href="https://instagram.com/thakuratul_28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="thakuratul28" height="30" width="30" /></a></code>-->
 <code><a href="https://leetcode.com/__Avantika_/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="avantika" height="30" width="30" /></a></code>

@@ -19,7 +19,7 @@
 <div id="header" >
   <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"/>
 </div>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:)</h3>
 <p align="left">
 
 <code><a href="https://www.linkedin.com/in/avantika-som-570819200/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="avantika_som" height="30" width="30" /></a></code>

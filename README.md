@@ -2,7 +2,7 @@
 ![02](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 <h1 align="center">Hi 👋, I'm Avantika Som</h1>
-<h3 align="center">A passionate front-end developer and a DSA Lover. </h3>
+<h3 align="center">A passionate Web developer. </h3>
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100"/>
 </div>

@@ -63,11 +63,11 @@
               <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
             </td>-->
-           <!-- <td width="80px" align="center">
+           <td width="80px" align="center">
             <span><strong>git</strong></span><br>
               <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></a>
-            </td>-->
+            </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
               <a href="https://github.com/avantikasom" target="_blank" rel="noreferrer">

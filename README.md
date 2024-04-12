@@ -26,10 +26,12 @@
 <!--<code><a href="https://instagram.com/thakuratul_28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="thakuratul28" height="30" width="30" /></a></code>-->
 <code><a href="https://www.hackerrank.com/avantikasom977" target="blank"><img align="center" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_dc8855248a4baee3ab92e3b9bf5273af/hackerrank-for-developers.png" alt="avantika" height="30" width="30" /></a></code>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <table width="320px">
-    <tbody>
+  <tbody>
+    
+
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
@@ -63,10 +65,96 @@
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></a>
             </td>-->
         </tr>
+        <tr valign="top">
+          <tr valign="top">
+       <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+              <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
+            </td>
+           <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+              <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+              <a href="https://github.com/avantikasom" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></a>
+            </td>
 
-        
-    </tbody>
+           
+      
+        </tr>
+
+   </tbody>     
+  
 </table>
+-->
+
+<h3 style="text-align: left;">Languages and Tools:</h3>
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Java</strong></span><br>
+        <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+          <img height="32px" src="https://www.pngfind.com/pngs/m/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" alt="Java">
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>HTML</strong></span><br>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML">
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>CSS</strong></span><br>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS">
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>MySQL</strong></span><br>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png" alt="MySQL">
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>React</strong></span><br>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React">
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>git</strong></span><br>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git">
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>GitHub</strong></span><br>
+        <a href="https://github.com/avantikasom" target="_blank" rel="noreferrer">
+          <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Javascript</strong></span><br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="JavaScript">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avantikasom&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="avantika" /></p>
 
